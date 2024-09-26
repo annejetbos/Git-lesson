@@ -6,6 +6,3 @@ y <- rnorm(500)
 # Important feature
 
 # Normal development
-
-# An alternative way forward
-

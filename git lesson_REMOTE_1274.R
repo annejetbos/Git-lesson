@@ -1,11 +1,9 @@
 # Headline
 
-x <- rnorm(500)
-y <- rnorm(500)
+x <- rnorm(100)
+y <- rnorm(100)
 
 # Important feature
-
-# Normal development
 
 # An alternative way forward
 
